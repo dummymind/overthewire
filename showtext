@@ -1,0 +1,7 @@
+#!/bin/sh
+
+export TERM=linux
+
+more ~/text.txt
+exit 0
+
