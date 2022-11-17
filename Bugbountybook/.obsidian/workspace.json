@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "65c3af6809cf6594",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cf4fb0a472d0eec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ae756edb3700ef3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter7 Open Redirects.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86eaed1f42bc51ad",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3e455d9eba11ddb",
+    "type": "split",
+    "children": [
+      {
+        "id": "77111d5933374d01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad6a393f0d020d1c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9f4238b50eca413a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f7e010d89c6db45d",
+    "type": "split",
+    "children": [
+      {
+        "id": "05be26a309186a49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35dfe2e42e4fc6b9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Chapter7 Open Redirects.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5baac49eb3c13b4a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Chapter7 Open Redirects.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3eb4c0935b56ee86",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "86eaed1f42bc51ad",
+  "lastOpenFiles": [
+    "Chapter7 Open Redirects.md",
+    "Chapter6 XSS.md",
+    "Chapter5 Web Hacking and Reconnaissance.md",
+    "Grey Hat warfare.md",
+    "Google Dorking.md",
+    "Web Spiders.md",
+    "EyeWitness and Snapper.md",
+    "Pasted image 20220314202100.png",
+    "Pasted image 20220314202627.png",
+    "Port Scanning.md"
+  ]
+}

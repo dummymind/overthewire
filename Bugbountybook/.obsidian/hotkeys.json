@@ -1,0 +1,19 @@
+{
+  "theme:use-light": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:insert-embed": [],
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ]
+}
