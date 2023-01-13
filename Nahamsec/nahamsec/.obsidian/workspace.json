@@ -1,52 +1,88 @@
 {
   "main": {
-    "id": "65c3af6809cf6594",
+    "id": "06d3b5ab2631e7af",
     "type": "split",
     "children": [
       {
-        "id": "8cf4fb0a472d0eec",
+        "id": "6d35674cdd3938e5",
         "type": "tabs",
         "children": [
           {
-            "id": "1ae756edb3700ef3",
+            "id": "e632f2a7ef65879a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter7 Open Redirects.md",
+                "file": "Open Direct.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "86eaed1f42bc51ad",
+            "id": "a53870fe7e4ed3d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter7 Open Redirects.md",
+                "file": "XSS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c328f3599f45ae05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSRF.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "937d9f441788138a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IDOR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6eca17783417de1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "XSS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c3e455d9eba11ddb",
+    "id": "4d53ca5fbe5c9700",
     "type": "split",
     "children": [
       {
-        "id": "77111d5933374d01",
+        "id": "69f4d96e0a0faced",
         "type": "tabs",
         "children": [
           {
-            "id": "ad6a393f0d020d1c",
+            "id": "23ea3d2af48f7c6a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +92,7 @@
             }
           },
           {
-            "id": "9f4238b50eca413a",
+            "id": "bf081407ffcdb7af",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -69,6 +105,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "6ac3ad13b1c39bbc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -77,20 +121,20 @@
     "width": 300
   },
   "right": {
-    "id": "f7e010d89c6db45d",
+    "id": "f59236f669abeea4",
     "type": "split",
     "children": [
       {
-        "id": "05be26a309186a49",
+        "id": "804cd5e4e7d40f0a",
         "type": "tabs",
         "children": [
           {
-            "id": "35dfe2e42e4fc6b9",
+            "id": "37ddbd4b878d68e4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter7 Open Redirects.md",
+                "file": "XSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,14 +146,35 @@
             }
           },
           {
-            "id": "5baac49eb3c13b4a",
+            "id": "d294d54c4f0da6be",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter7 Open Redirects.md",
+                "file": "XSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "03565e41900a9fd9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ebaf68af4224f13b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "XSS.md"
               }
             }
           }
@@ -120,17 +185,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "86eaed1f42bc51ad",
+  "active": "d6eca17783417de1",
   "lastOpenFiles": [
-    "Chapter7 Open Redirects.md",
-    "Chapter6 XSS.md",
-    "Chapter5 Web Hacking and Reconnaissance.md",
-    "Grey Hat warfare.md",
-    "Google Dorking.md",
-    "Web Spiders.md",
-    "EyeWitness and Snapper.md",
-    "Pasted image 20220314202100.png",
-    "Pasted image 20220314202627.png",
-    "Port Scanning.md"
+    "LFD.md",
+    "IDOR.md",
+    "XSS.md",
+    "CSRF.md",
+    "Open Direct.md"
   ]
 }
